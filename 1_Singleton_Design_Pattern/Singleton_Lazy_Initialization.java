@@ -1,10 +1,10 @@
 
 /*
-* Lazy Initialization - Instance is created only when requested.
-*
-*❌ Not Thread-safe:
+Lazy Initialization - Instance is created only when requested.
+
+❌ Not Thread-safe:
 If two threads call getInstance() simultaneously, more than one instance can be created.
-* */
+*/
 
 public class Singleton_Lazy_Initialization {
     private static Singleton_Lazy_Initialization instance;

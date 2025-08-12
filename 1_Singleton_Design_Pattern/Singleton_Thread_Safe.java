@@ -1,11 +1,11 @@
 
 /*
-* Thread Safe - Thread-safe Singleton (Synchronized Method)
+Thread Safe - Thread-safe Singleton (Synchronized Method)
 
 ✅ Thread-safe.
 ❌ Slower due to method-level synchronization.
-*
-* */
+
+*/
 
 public class Singleton_Thread_Safe {
    private static Singleton_Thread_Safe instance;
