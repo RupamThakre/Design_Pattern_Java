@@ -1,5 +1,36 @@
 # Design Patterns in Java
-Design patterns in Java
+
+🧩 1. Creational Patterns - Focus on object creation mechanisms.
+
+1. Singleton – Ensures a class has only one instance.
+2. Factory Method – Creates objects without specifying exact class.
+3. Abstract Factory – Produces families of related objects.
+4. Builder – Constructs complex objects step by step.
+5. Prototype – Clones existing objects.
+
+⚙️ 2. Structural Patterns - Focus on how classes and objects are composed.
+
+1. Adapter – Converts one interface to another.
+2. Bridge – Separates abstraction from implementation.
+3. Composite – Treats individual and groups of objects uniformly.
+4. Decorator – Adds behavior to objects dynamically.
+5. Facade – Provides a simplified interface to a complex system.
+6. Flyweight – Shares common parts of object state to reduce memory.
+Proxy – Provides a placeholder for another object.
+
+🔄 3. Behavioral Patterns - Focus on communication between objects.
+
+1. Observer – Notifies dependent objects when state changes.
+2. Strategy – Defines a family of algorithms, interchangeable.
+3. Command – Encapsulates a request as an object.
+4. State – Allows an object to alter behavior based on state.
+5. Template Method – Defines a skeleton of an algorithm in a method.
+6. Mediator – Reduces communication complexity between objects.
+7. Chain of Responsibility – Passes requests along a chain of handlers.
+8. Iterator – Provides a way to access elements sequentially.
+9. Memento – Saves and restores the previous state of an object.
+10. Visitor – Separates an algorithm from an object structure.
+
 
 # **1. Singleton Design Pattern**
 
